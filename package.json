@@ -1,6 +1,6 @@
 {
-  "name": "atm-machine",
-  "version": "1.0.0",
+  "name": "am4-atm-machine",
+  "version": "1.0.1",
   "description": "A simple ATM machine with typeSript,Node.js and inquirer",
   "main": "index.js",
   "type": "module",
